@@ -1,0 +1,91 @@
+Promick CPS - T112 (vibrate and beep)
+Promick CPS - T115
+NOT - Promick CPS - T173
+
+https://fccid.io/2A3NOT112/External-Photos/External-Photos-5585532
+
+FGBF9402A
+
+Specifications
+Buzzer
+Standby current: 10mA
+Working current: 75mA (vibration)
+Power: built-in 360mAh rechargeable lithium battery
+Charging voltage: DC 5V
+Size: 3.9 x 1.9 x 0.4 inch
+Weight: 0.09lb
+Calling keypad
+Standby current: 24mA
+Transmit current: 100mA
+Working voltage: DC 5V/6A power adapter
+Adapter: AC 100-240V 50/60Hz
+Size: 11.8 x 5.9 x 1.3 inch
+
+
+The frequency of the calling system is 433.92MHz, the decoder is learning code(AM). Hope this answer is helpful : )
+
+
+
+
+
+1 Full-set package ready-to-use
+
+Queue wireless calling system set consists of one 999-channel keypad wireless calling button base & 20 pcs wireless pagers
+
+It adopts RF wireless & learning code techno, can easily pair upto 999CH of pagers
+While the customer places an order, she/he will be dispatched 1 receiver with a number, when the order is ready, press the keypad to call the number, the customer will get it through the buzzer/vibration/LED indications
+
+This queue system greatly improves the work efficiency & avoids the client waiting in a long queue 
+
+So it is widely used in fast food restaurant, food court, clinic, church & auto-shop or other queue occasions
+
+Advantages:
+
++ Minimize crowds in waiting-line
++ Reduce staff chaos & improve ambience
++ Notify people faster
++ Reduce staff cost
++ Improves work efficiency
++ Enhances the restaurant's image
++ Easy-to-Use, setting-up and installed
+
+Feats
+
+999CH keypad call buttons
+20 batteries charging slots
+Each system is expandable up-to 999-pagers
+Portable rechargeable pagers
+Prompt modes: Vibration & Buzzer & Vibration & Flash
+Independent storage memory avoiding data lost
+Hi-receive sensitivity
+Self testing while power-on
+Beautiful Fashionable Design
+Transmitting distance is about 1KM in the open-area
+
+Specs
+
+Brand: Promick CPS - T112
+Frequency: 433.92MHz
+Pager power: Built-in 360mAh rechargeable li-ion battery
+Working voltage: DC 5V/6A power adapter
+Pager number: 20 pcs
+Expandable number: 999pcs
+Calling mode: buzzer+flash, vibrate+flash, buzzer+vibrate+flash
+Flash color: Red & Blue
+Pager st-by time: 12 Hours
+Working distance: 1KM in open area
+Application: Cafe Shop, fast food shop, food court, pizza shop, church ,clinic
+Charging Time: 3-4 Hrs
+Waterproof: Yes
+
+Note:
+You can always add more pagers to the system as your business grows, if you need more pagers please contact our customer service
+
+Package List:
+:
+1x Call button keypad + 20 charging slots PROMICK CPS - T112
+20x Pager RX
+1x Power adaptor
+1x Antenna for base unit
+1x Manual book
+1x Warranty card
